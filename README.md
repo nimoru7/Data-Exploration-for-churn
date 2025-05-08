@@ -37,3 +37,4 @@ Additionally, offering an annual discounted plan could increase retention beyond
 |------|-------------|
 | `EDA for Churn data.ipynb` | Main Jupyter Notebook with full analysis |
 | `Final written report.docx` | Written summary submitted for evaluation |
+| `Assignment1_StreamFlow_Subscription_Data.csv` | Raw Data file|
